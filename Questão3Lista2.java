@@ -3,7 +3,7 @@ package Questão3Lista2;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class Main {
+public class Questão3Lista2 {
 
     private static Scanner Teclado;
 
